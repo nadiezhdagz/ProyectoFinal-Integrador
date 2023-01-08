@@ -29,18 +29,55 @@ div{
         }
     }
 
-/* Nombre Personal*/
-#nombre{
-    font-weight: bold;
-    margin-top: 20%;
+/* Nombre Persona*/
+
+.container{
+    width: 1400px;
+   text-align: left;
+   padding: 20px;
+   position: relative;
+   
+/*Sombra*/
+ margin: 100px;
+ margin-left: 0%;
+ height:flex; 
+ border: solid 1px #555; 
+ background-color: #eee; 
+ box-shadow: 10px -10px rgba(0,0,0,0.6);
+ -webkit-box-shadow: 10px -10px rgba(0,0,0,0.6);
+ }
+
+ .contenedor{
+    width: 1320px;
+    text-align: left;
+    padding: 20px;
+    position: relative;
     
-    /*text-align: initial;*/
+ /*Sombra*/
+  /*margin-top: fit;*/
+  margin-top: -6%;
+  margin-left: 0%;
+  height:flex; 
+  border: solid 1px #555; 
+  background-color: #eee; 
+  box-shadow: 10px -10px rgba(0,0,0,0.6);
+  -webkit-box-shadow: 10px -10px rgba(0,0,0,0.6);
+  }
+/*#nombre{
+    font-weight: bold;
+    margin-top: 2%;
+    margin-left: 17%;    
+    text-align: left;
     }
 
-    /*#titulo{
-        font-weight: bold;
-        margin-left: 2%
+    #titulo{
+        margin-left: 19%;
         text-align: initial;
+        }
+
+        #Acerca{
+            margin-right: 25%;
+            text-align: right;
         }*/
 
 

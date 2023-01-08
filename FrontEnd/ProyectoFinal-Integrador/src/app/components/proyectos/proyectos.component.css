@@ -4,7 +4,23 @@
 }
 
 .container{
-    width: auto;
-    display: inline-block;
-    text-align: justify;
+   width: auto;
+    /*display: inline-block;
+    text-align: justify;*/
+
+    
+       width: 1320px;
+        text-align: left;
+        padding: 20px;
+        position: relative;
+        
+        /*Sombra*/
+        margin-top: -0%;
+        margin-left: 1%;
+        height:flexible; 
+        border: solid 1px #555; 
+        background-color: #eee; 
+        box-shadow: 10px -10px rgba(0,0,0,0.6);
+        -webkit-box-shadow: 10px -10px rgba(0,0,0,0.6);
+    
 }
