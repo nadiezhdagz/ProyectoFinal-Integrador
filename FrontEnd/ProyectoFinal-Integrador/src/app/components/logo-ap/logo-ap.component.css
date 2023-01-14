@@ -2,15 +2,31 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    /*float: right;
-    margin-top: 15px;*/
+    float: right;
+    margin-top: 5px;
+    
+    width: 1410px;
+    text-align: left;
+    padding: 10px;
+    position: relative;
+    
+    /*Sombra*/
+    margin-top: 1%;
+    margin-left: 2%;
+    height:flexible; 
+    border: solid 1px #555; 
+    background-color:blue; 
+    box-shadow: 10px -10px rgba(0,0,0,0.6);
+    -webkit-box-shadow: 10px -10px rgba(0,0,0,0.6);
     }
 
 .redes{
-    margin-right: 0 ,Sem;
+    margin-right: 0, Sem;
+    align-content: right;
 }
 
 #logoAp{
+    margin-top: -5%;
     width: 200px;
 }
 img{
@@ -19,6 +35,8 @@ img{
 
 .btn{
     border-width: medium;
+    margin-left: 12px;
+    
 }
 
  /*Vista Celular

@@ -3,7 +3,7 @@
     padding: 20px;
 }
 .container{
-    width: 1320px;
+    width: 1420px;
     text-align: left;
     padding: 20px;
     position: relative;
@@ -16,4 +16,34 @@
     background-color: #eee; 
     box-shadow: 10px -10px rgba(0,0,0,0.6);
     -webkit-box-shadow: 10px -10px rgba(0,0,0,0.6);
+}
+
+.circulo1{
+    margin-top: 0%;
+    margin-left: -5%;
+}
+
+.circulo2{
+    margin-top: -60%;
+    margin-left: 100%;
+}
+
+.circulo3{
+    margin-top: -60%;
+    margin-left: 200%;
+}
+
+.circulo4{
+    margin-top: 10%;
+    margin-left: -5%;
+}
+
+.circulo5{
+    margin-top: -60%;
+    margin-left: 100%;
+}
+
+.circulo6{
+    margin-top: -60%;
+    margin-left: 200%;
 }

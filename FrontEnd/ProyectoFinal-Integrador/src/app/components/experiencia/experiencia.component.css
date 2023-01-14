@@ -1,5 +1,5 @@
 .row{
-    padding: 20px;
+    padding: 10px;
 }
 
 div{
@@ -11,14 +11,14 @@ h1,h3{
 }
 
 .container{
-    width: 1320px;
+    width: 1420px;
     text-align: left;
-    padding: 20px;
+    padding: 10px;
     position: relative;
     
  /*Sombra*/
   margin-top: -0%;
-  margin-left: 1%;
+  margin-left: 1.5%;
   height:flexible; 
   border: solid 1px #555; 
   background-color: #eee; 

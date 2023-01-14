@@ -1,4 +1,5 @@
 .row{
+    width: flexible;
     background-color: #a1b5cb;
 }
 
@@ -10,3 +11,4 @@ footer{
     text-align: center;
     box-shadow: 2px --2px 5px #f999;
 }
+

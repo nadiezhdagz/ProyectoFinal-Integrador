@@ -4,14 +4,12 @@
 }
 
 .container{
-   width: auto;
+   /*width: auto;*/
     /*display: inline-block;
     text-align: justify;*/
-
-    
-       width: 1320px;
+        width: 1420px;
         text-align: left;
-        padding: 20px;
+        padding: 10px;
         position: relative;
         
         /*Sombra*/

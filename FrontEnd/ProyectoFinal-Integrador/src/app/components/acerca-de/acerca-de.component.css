@@ -1,6 +1,6 @@
-.row{
-    padding: 20px;
-}
+/*.row{
+    padding: 10px;
+}*/
     
 div{
     background-color: #a1b5cb;
@@ -13,8 +13,8 @@ div{
             width: 15%;
             border-radius: 100%;
             box-shadow: 3px 3px grey;
-            left: 3%;
-            top: 600px;
+            left: 2.5%;
+            top: 280px;
         }
     }
 
@@ -24,22 +24,22 @@ div{
             width: 30%;
             border-radius: 100%;
             box-shadow: 3px 3px grey;
-            left: 33%;
-            top: 630px;
+            left: 23%;
+            top: 480px;
         }
     }
 
 /* Nombre Persona*/
 
 .container{
-    width: 1400px;
-   text-align: left;
-   padding: 20px;
+   width: 1420px;
+   text-align: justify;
+   padding: 10px;
    position: relative;
    
 /*Sombra*/
- margin: 100px;
- margin-left: 0%;
+ margin: 20px;
+ margin-left: 1%;
  height:flex; 
  border: solid 1px #555; 
  background-color: #eee; 
@@ -48,37 +48,18 @@ div{
  }
 
  .contenedor{
-    width: 1320px;
-    text-align: left;
-    padding: 20px;
+    width: 1420px;
+    text-align: justify;
+    padding: 10px;
     position: relative;
     
+    
  /*Sombra*/
-  /*margin-top: fit;*/
-  margin-top: -6%;
-  margin-left: 0%;
+  margin-top: 2%;
+  margin-left: 1.5%;
   height:flex; 
   border: solid 1px #555; 
   background-color: #eee; 
   box-shadow: 10px -10px rgba(0,0,0,0.6);
   -webkit-box-shadow: 10px -10px rgba(0,0,0,0.6);
   }
-/*#nombre{
-    font-weight: bold;
-    margin-top: 2%;
-    margin-left: 17%;    
-    text-align: left;
-    }
-
-    #titulo{
-        margin-left: 19%;
-        text-align: initial;
-        }
-
-        #Acerca{
-            margin-right: 25%;
-            text-align: right;
-        }*/
-
-
-    

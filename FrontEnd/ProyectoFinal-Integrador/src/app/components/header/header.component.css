@@ -1,8 +1,17 @@
 div{
     background-color: #a1b5cb;
+    padding: 10px;
+    
+}
+
+.container{
+    padding: 10px;
+    position: relative;
 }
 
 app-social{
     float: right;
-    margin-top: 25px;
+    margin-top: 35px;
+    
 }
+
